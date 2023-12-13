@@ -1,0 +1,17 @@
+{
+  "name": "pdfconvert",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pdf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "pdf-image": "^2.0.0",
+    "pdf-lib": "^1.17.1",
+    "sharp": "^0.33.0"
+  }
+}
